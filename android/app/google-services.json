@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931703206356",
+    "project_id": "uktalhybird",
+    "storage_bucket": "uktalhybird.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931703206356:android:eeb4d7f278213fcaf96641",
+        "android_client_info": {
+          "package_name": "com.example.uktalhybird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ohjQxqH_8NOdyQu2wGRiM1H4QgxCUbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
