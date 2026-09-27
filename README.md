@@ -958,7 +958,22 @@ If the project is intended for private or proprietary use, do not add an open-so
 > **Artificial Intelligence + AI Chatbot + Blockchain + Wallet Infrastructure + Education + Networking**
 
 into a unified digital platform.
+## 📱 UI Preview
 
+### Home Dashboard
+<img src="assets/Home%20Screen.png" alt="Uktal Hybrid Home Dashboard" width="100%">
+
+### AI Chatbot
+<img src="assets/AI%20Chatbot.png" alt="Uktal AI Chatbot" width="100%">
+
+### Deposit & Wallet
+<img src="assets/Deposit%20Screen.png" alt="Uktal Deposit Screen" width="100%">
+
+### Network
+<img src="assets/Networks.png" alt="Uktal Network" width="100%">
+
+### Network Details
+<img src="assets/Netrwork%202.png" alt="Uktal Network Details" width="100%">
 ---
 
 <p align="center">
